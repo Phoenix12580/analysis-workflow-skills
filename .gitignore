@@ -1,0 +1,24 @@
+# Local/editor state
+.DS_Store
+Thumbs.db
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+.venv/
+node_modules/
+
+# Credentials
+.env
+.env.*
+.Renviron
+
+# Research inputs and outputs do not belong in this repository
+/data/
+/step*/
+*.qs
+*.rds
+*.RDS
+*.h5ad
+*.h5
+*.zip

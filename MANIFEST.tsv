@@ -1,0 +1,11 @@
+path	version	recorded_at	source	sha256	change_reason	status
+.gitignore	0.1.0	2026-10-12T16:41:25+0800	assistant-authored; confirmed collaboration workflow	914f79256821da3a6ba559d5c01b64935e1a2df5f0afa8e9dc99c3b113075139	initial skill repository	current
+AGENTS.md	0.1.0	2026-10-12T16:41:25+0800	assistant-authored; confirmed collaboration workflow	0623212ef01f050e7692b8a1cf9ab1e2e2c2c72a5b522c6de2f157df94589314	initial skill repository	current
+CONTRIBUTING.md	0.1.0	2026-10-12T16:41:25+0800	assistant-authored; confirmed collaboration workflow	51f5660aa7068e4fa1e90340ec342996560463645ce72d6d4b7f6000032e40a8	initial skill repository	current
+README.md	0.1.0	2026-10-12T16:41:25+0800	assistant-authored; confirmed collaboration workflow	2a17d67f8a3f15ead53810dc1c9f015dca2a4a15d5b9962802e7875166c864e3	initial skill repository	current
+skills/project-init/assets/AGENTS.template.md	0.1.0	2026-10-12T16:41:25+0800	assistant-authored; confirmed collaboration workflow	ab5e8521c8bcbff28dabc82be734c8fa6f1bd35ee17aed6e567d0eba23f4df3d	initial skill repository	current
+skills/project-init/assets/HANDOFF.template.md	0.1.0	2026-10-12T16:41:25+0800	assistant-authored; confirmed collaboration workflow	66bebfe5212e4940d5cadb34f6d0786e808a8c46b8d8243058bfb7ecd4a0c91c	initial skill repository	current
+skills/project-init/assets/PLAN.template.md	0.1.0	2026-10-12T16:41:25+0800	assistant-authored; confirmed collaboration workflow	11e54cbdd0065756890ed676613b8a05512b8925974f603c8e735b06ece1c94a	initial skill repository	current
+skills/project-init/assets/README.template.md	0.1.0	2026-10-12T16:41:25+0800	assistant-authored; confirmed collaboration workflow	62f5de6dbc948747f0ff6bd9242adb49e7d7d707ff6a80fe1ecd6c5da56d72f1	initial skill repository	current
+skills/project-init/SKILL.md	0.1.0	2026-10-12T16:41:25+0800	assistant-authored; confirmed collaboration workflow	e32a41772f32992be74ec95659767eeabe13c4254ca4413897332d702f28645d	initial skill repository	current
+tests/acceptance.md	0.1.0	2026-10-12T16:41:25+0800	assistant-authored; confirmed collaboration workflow	0350a037edd84dbdf84dcf57220358cabdbc9fa70478b21e009ba1c03d97fc9d	initial skill repository	current
